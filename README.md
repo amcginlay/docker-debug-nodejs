@@ -1,4 +1,4 @@
-# Debugging NodeJS via Docker
+# Debugging NodeJS via Docker and VSCode
 
 ## Bookmarks
 - [NodeJS Debugging in Docker](https://www.youtube.com/watch?v=ktvgr9VZ4dc)
@@ -11,7 +11,7 @@
 - [Microsoft's Docker Extension](https://github.com/microsoft/vscode-docker) for VSCode is installed
 - Ports 5000 and 9229 on the local machine and not currently in use
 
-## Steps to demo debugging in docker-based NodeJS installation
+## Steps to demo debugging in docker-based NodeJS application
 - Clone this repo
 - Open VSCode against this cloned folder
 - In the VSCode terminal, run `docker-compose --build up`
